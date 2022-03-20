@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!.prettierrc.json
+!main.lua
+!README.md
