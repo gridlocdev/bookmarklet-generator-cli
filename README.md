@@ -10,7 +10,7 @@ This is a simple bookmarklet generator, which takes a JavaScript file and create
 ## Usage
 
 1. Clone this repository with `git clone ...`
-2. Create a JavaScript file (`.js` extension)
+2. Create a JavaScript file with the `.js` file extension
 3. Format the file with Prettier (this inserts semicolons, which are needed for a valid bookmarklet)
 4. Run the script!
 
